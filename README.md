@@ -1,0 +1,1 @@
+# BrowserDeviceInfo.js
